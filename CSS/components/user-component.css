@@ -53,3 +53,20 @@
   display: block;
   margin-bottom: 10px;
 }
+
+.user-component__text h6 {
+  display: flex;
+  align-content: center;
+}
+.user-component__text h6 span {
+  color: red;
+  border: 1px solid red;
+  border-radius: 50%;
+  display: block;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  opacity: 0.4;
+  font-weight: 600;
+  margin-left: 5px;
+}
